@@ -1,0 +1,4 @@
+
+This is a buggy storyboard file for custom alert
+
+
